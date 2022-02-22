@@ -1,0 +1,92 @@
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+C:\Users\Fran\Desktop\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+D:\Cosas\Instituto\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+E:\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+E:\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+E:\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+C:\Users\Fran\Desktop\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+E:\Insti\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+E:\Insti\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+E:\Insti\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+E:\Insti\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+E:\Insti\POO\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+E:\Insti\POO\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+C:\Users\Fran\Desktop\Insti\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.Cache
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csprojAssemblyReference.cache
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.cache
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.CoreCompileInputs.cache
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+D:\Backup 2019\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\bin\Debug\Juego de dados.pdb
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Form1.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.FormPrincipal.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Properties.Resources.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego_de_dados.Resource1.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.exe
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\POO\Programas año 2019\Juego de dados\Juego de dados\obj\x86\Debug\Juego de dados.pdb
